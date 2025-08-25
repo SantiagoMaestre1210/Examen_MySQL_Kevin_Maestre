@@ -1,1 +1,0 @@
-# Examen_MySQL_Kevin_Maestre
